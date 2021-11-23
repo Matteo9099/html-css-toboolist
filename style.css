@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+
+.header-logo{
+    background-color: #fff;
+}
+
+.header-logo #logo{
+    height: 100px;
+    vertical-align: middle;
+}
+
+.header-logo #logo-text{
+    font-size: 50px;
+    vertical-align: middle;
+    font-weight: bold;
+}
