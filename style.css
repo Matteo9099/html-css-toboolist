@@ -26,16 +26,17 @@ body{
 #box-top{
     width: 60%;
     margin: auto;
-    margin-top: 80px;
+    margin-top: 50px;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
-    background-color:  red;
+    background-color: #fff;
 }
 
 .container{
     width: 90%;
     margin: auto;
     padding: 20px;
+    font-weight: bold;
 }
 
 /* inizio box-top */
@@ -43,10 +44,11 @@ body{
     padding: 5px;
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 5px;
+    border: none;
 }
 
 .blue{
-    background-color: rgba(13, 67, 241, 0.87);
+    background-color: #6495ed;
 }
 
 .white{
@@ -58,8 +60,11 @@ body{
 #box-bottom{
     width: 60%;
     margin: auto;
+    margin-bottom: 10px;
     margin-top: 5px;
-    background-color: white;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: #fff;
 }
 
 .special{
@@ -87,6 +92,13 @@ body{
     background-color: orange;
 }
 
+.lime{
+    background-color: lime;
+}
+
+.orange{
+    background-color: orange;
+}
 .true{
     border: 1px solid green;
     padding: 3px;
@@ -110,10 +122,7 @@ body{
 }
 
 .sottotitle{
-    font-family: cursive;
+    font-style: normal;
     font-size: 14px;
 }
-
-
-
 /* fine box-bottom */
