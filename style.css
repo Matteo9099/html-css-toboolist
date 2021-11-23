@@ -55,6 +55,8 @@ body{
 
 .white{
     color: gray;
+    background-color: #fff;
+    border: 1px solid gray;
 }
 /* fine box-top */
 
